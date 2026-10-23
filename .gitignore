@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# Images in input
+inputs/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.zip
+*.tar.gz
+
+# Detection Dataset
+raw_mvtec/
+*.json
+
 # Distribution / packaging
 .Python
 build/
