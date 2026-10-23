@@ -1,7 +1,11 @@
 # UPC_CV_Project_1
 Four challenges for BP1 of CV to do with counting, classifying and normalising screws and nuts
-
 ---
+
+### Input Images
+* Download from https://www.mvtec.com/research-teaching/datasets/mvtec-screws/downloads
+* Place all images in /inputs
+* keep mvtec_screws.json (labelled bounding box and classes) and move into /raw_mvtec
 
 ### Challenge 1 — Segmentation & Part Counting (C1)
 * **Goal**: Detect, isolate, and count individual fasteners against irregular wood backgrounds, handling shadows, specular reflections, and wood-chip color similarities.
