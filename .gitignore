@@ -18,7 +18,7 @@ inputs/
 
 # Detection Dataset
 raw_mvtec/
-*.json
+# *.json - Annotations are in JSON and they must be delivered
 
 # Distribution / packaging
 .Python
