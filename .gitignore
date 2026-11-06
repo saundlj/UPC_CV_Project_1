@@ -15,10 +15,11 @@ inputs/
 *.tif
 *.zip
 *.tar.gz
+!annotations/**/*.png # include annotations
 
 # Detection Dataset
 raw_mvtec/
-# *.json - Annotations are in JSON and they must be delivered
+*.json
 
 # Distribution / packaging
 .Python
