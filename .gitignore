@@ -15,6 +15,7 @@ inputs/
 *.tif
 *.zip
 *.tar.gz
+!annotations/
 !annotations/**/*.png # include annotations
 
 # Detection Dataset
