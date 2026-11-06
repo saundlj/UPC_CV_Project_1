@@ -8,15 +8,13 @@ __pycache__/
 
 # Images in input
 inputs/
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.tif
-*.zip
-*.tar.gz
-!annotations/
-!annotations/**/*.png # include annotations
+inputs/**/*.png
+inputs/**/*.jpg
+inputs/**/*.jpeg
+inputs/**/*.bmp
+inputs/**/*.tif
+inputs/**/*.zip
+inputs/**/*.tar.gz
 
 # Detection Dataset
 raw_mvtec/
