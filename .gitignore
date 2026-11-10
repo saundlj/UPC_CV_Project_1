@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Images in output
+outputs/**/*.png
+
 # Images in input
 inputs/
 inputs/**/*.png
@@ -232,3 +235,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+view_annotations.py
+docs/BP1_worksheet_classic_computer_vision.pdf
+challenge1_ls.ipynb
+outputs/challenge_1_results/part_counts.csv
+.gitignore
+outputs/challenge_3_results/predicted_finishes.csv
