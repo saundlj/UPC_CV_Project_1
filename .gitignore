@@ -241,3 +241,8 @@ challenge1_ls.ipynb
 outputs/challenge_1_results/part_counts.csv
 .gitignore
 outputs/challenge_3_results/predicted_finishes.csv
+challenge3_cleaned.ipynb
+challenge3.ipynb
+challenge3.ipynb
+challenge3.ipynb
+outputs/challenge_3_results/finish_predictions.csv
